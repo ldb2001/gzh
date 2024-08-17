@@ -5,13 +5,13 @@
 
 http://mp.weixin.qq.com/debug/cgi-bin/sandboxinfo?action=showinfo&t=sandbox/index 
 
-![image-20240817090808893](C:\Users\86152\AppData\Roaming\Typora\typora-user-images\image-20240817090808893.png)
+![image-20240817090808893](img\image-20240817090808893.png)
 
-![image-20240817090925725](C:\Users\86152\AppData\Roaming\Typora\typora-user-images\image-20240817090925725.png)
+![image-20240817090925725](img\image-20240817090925725.png)
 
-![image-20240817091031585](C:\Users\86152\AppData\Roaming\Typora\typora-user-images\image-20240817091031585.png)
+![image-20240817091031585](img\image-20240817091031585.png)
 
-![image-20240817091131028](C:\Users\86152\AppData\Roaming\Typora\typora-user-images\image-20240817091131028.png)
+![image-20240817091131028](img\image-20240817091131028.png)
 
 模板内容如下（模板内容能做修改，不过需要根据代码自己修改，不做过多赘述了）：
 
@@ -36,16 +36,18 @@ http://mp.weixin.qq.com/debug/cgi-bin/sandboxinfo?action=showinfo&t=sandbox/inde
 
 https://id.qweather.com/
 
-![image-20240817091614667](C:\Users\86152\AppData\Roaming\Typora\typora-user-images\image-20240817091614667.png)
+![image-20240817091614667](img\image-20240817091614667.png)
 
-![image-20240817091723670](C:\Users\86152\AppData\Roaming\Typora\typora-user-images\image-20240817091723670.png)
+![image-20240817091723670](img\image-20240817091723670.png)
 
-![image-20240817091900253](C:\Users\86152\AppData\Roaming\Typora\typora-user-images\image-20240817091900253.png)
+![image-20240817091900253](img\image-20240817091900253.png)
 
-![image-20240817092003604](C:\Users\86152\AppData\Roaming\Typora\typora-user-images\image-20240817092003604.png)
+![image-20240817092003604](img\image-20240817092003604.png)
 
 ## 3.配置
 
 找到代码中的config.txt文件
 
-![image-20240817092531290](C:\Users\86152\AppData\Roaming\Typora\typora-user-images\image-20240817092531290.png)
+![image-20240817093029696](img\image-20240817093029696.png)
+
+## 4.推送
